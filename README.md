@@ -1,2 +1,5 @@
-# fools
-Nanoloop files for the album "Fools"
+Nanoloop song files (.nan) for the album entitled "FOOLS"
+
+https://gesceap.bandcamp.com/album/FOOLS
+
+
